@@ -1,1 +1,3 @@
 # User-Authentication-System
+The technologies that I have used here are Express, Mongodb and nodejs
+The main file is index.js where i have defined a path /auth which will redirect to Authrouter there I have four router for signup, login, password reset rquest and reset password.
